@@ -1,0 +1,14 @@
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\bin\Debug\net8.0\chpater03-18.exe
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\bin\Debug\net8.0\chpater03-18.deps.json
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\bin\Debug\net8.0\chpater03-18.runtimeconfig.json
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\bin\Debug\net8.0\chpater03-18.dll
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\bin\Debug\net8.0\chpater03-18.pdb
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\obj\Debug\net8.0\chpater03-18.GeneratedMSBuildEditorConfig.editorconfig
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\obj\Debug\net8.0\chpater03-18.AssemblyInfoInputs.cache
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\obj\Debug\net8.0\chpater03-18.AssemblyInfo.cs
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\obj\Debug\net8.0\chpater03-18.csproj.CoreCompileInputs.cache
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\obj\Debug\net8.0\chpater03-18.dll
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\obj\Debug\net8.0\refint\chpater03-18.dll
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\obj\Debug\net8.0\chpater03-18.pdb
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\obj\Debug\net8.0\chpater03-18.genruntimeconfig.cache
+D:\241028-edu2\csharp\5day\chapter03\chpater03-18\obj\Debug\net8.0\ref\chpater03-18.dll

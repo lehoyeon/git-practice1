@@ -1,0 +1,14 @@
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\bin\Debug\net8.0\chapter03-15.exe
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\bin\Debug\net8.0\chapter03-15.deps.json
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\bin\Debug\net8.0\chapter03-15.runtimeconfig.json
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\bin\Debug\net8.0\chapter03-15.dll
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\bin\Debug\net8.0\chapter03-15.pdb
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\obj\Debug\net8.0\chapter03-15.GeneratedMSBuildEditorConfig.editorconfig
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\obj\Debug\net8.0\chapter03-15.AssemblyInfoInputs.cache
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\obj\Debug\net8.0\chapter03-15.AssemblyInfo.cs
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\obj\Debug\net8.0\chapter03-15.csproj.CoreCompileInputs.cache
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\obj\Debug\net8.0\chapter03-15.dll
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\obj\Debug\net8.0\refint\chapter03-15.dll
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\obj\Debug\net8.0\chapter03-15.pdb
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\obj\Debug\net8.0\chapter03-15.genruntimeconfig.cache
+D:\241028-edu2\csharp\4day\chapter03\chapter03-15\obj\Debug\net8.0\ref\chapter03-15.dll

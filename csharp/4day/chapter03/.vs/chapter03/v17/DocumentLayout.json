@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\241028-edu2\\csharp\\4day\\chapter03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFE3B09-194D-40A2-BA67-7B1F17BBDB9D}|chapter03-ex6\\chapter03-ex6.csproj|d:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFE3B09-194D-40A2-BA67-7B1F17BBDB9D}|chapter03-ex6\\chapter03-ex6.csproj|solutionrelative:chapter03-ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9E12D6-8C07-40FB-B0F2-0118DE912306}|chapter03-ex5\\chapter03-ex5.csproj|d:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9E12D6-8C07-40FB-B0F2-0118DE912306}|chapter03-ex5\\chapter03-ex5.csproj|solutionrelative:chapter03-ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EA2705-9C70-4A17-919E-40F50DBA2B7A}|chapter03-14\\chapter03-14.csproj|d:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EA2705-9C70-4A17-919E-40F50DBA2B7A}|chapter03-14\\chapter03-14.csproj|solutionrelative:chapter03-14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108BF61-A550-44DD-877E-287DEB50B1F3}|chapter03-13\\chapter03-13.csproj|d:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E108BF61-A550-44DD-877E-287DEB50B1F3}|chapter03-13\\chapter03-13.csproj|solutionrelative:chapter03-13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10D3AF7-6E12-438A-9EF5-60E8CF7E3891}|chapter03-12\\chapter03-12.csproj|d:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10D3AF7-6E12-438A-9EF5-60E8CF7E3891}|chapter03-12\\chapter03-12.csproj|solutionrelative:chapter03-12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE709FD-451F-4F54-B01C-69510AF72958}|chapter03-ex4\\chapter03-ex4.csproj|d:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE709FD-451F-4F54-B01C-69510AF72958}|chapter03-ex4\\chapter03-ex4.csproj|solutionrelative:chapter03-ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6497C18-D229-41AB-9DEF-C1491B239404}|chapter03-ex3\\chapter03-ex3.csproj|d:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6497C18-D229-41AB-9DEF-C1491B239404}|chapter03-ex3\\chapter03-ex3.csproj|solutionrelative:chapter03-ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6198815F-C53B-4EE3-A7A9-AD191E3E806C}|chapter03-ex2\\chapter03-ex2.csproj|d:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6198815F-C53B-4EE3-A7A9-AD191E3E806C}|chapter03-ex2\\chapter03-ex2.csproj|solutionrelative:chapter03-ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8722EF87-E6D4-4F56-8A6C-EA3597F386BC}|chapter03-15\\chapter03-15.csproj|d:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8722EF87-E6D4-4F56-8A6C-EA3597F386BC}|chapter03-15\\chapter03-15.csproj|solutionrelative:chapter03-15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C17900-D5F5-4875-854F-C85CD42C4343}|chapter03-ex1\\chapter03-ex1.csproj|d:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C17900-D5F5-4875-854F-C85CD42C4343}|chapter03-ex1\\chapter03-ex1.csproj|solutionrelative:chapter03-ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 89,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex6\\Program.cs",
+              "RelativeDocumentMoniker": "chapter03-ex6\\Program.cs",
+              "ToolTip": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex6\\Program.cs",
+              "RelativeToolTip": "chapter03-ex6\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:16:54.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex5\\Program.cs",
+              "RelativeDocumentMoniker": "chapter03-ex5\\Program.cs",
+              "ToolTip": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex5\\Program.cs",
+              "RelativeToolTip": "chapter03-ex5\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:56:11.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex4\\Program.cs",
+              "RelativeDocumentMoniker": "chapter03-ex4\\Program.cs",
+              "ToolTip": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex4\\Program.cs",
+              "RelativeToolTip": "chapter03-ex4\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:01:49.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex3\\Program.cs",
+              "RelativeDocumentMoniker": "chapter03-ex3\\Program.cs",
+              "ToolTip": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex3\\Program.cs",
+              "RelativeToolTip": "chapter03-ex3\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:27:59.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-15\\Program.cs",
+              "RelativeDocumentMoniker": "chapter03-15\\Program.cs",
+              "ToolTip": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-15\\Program.cs",
+              "RelativeToolTip": "chapter03-15\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:51:11.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex2\\Program.cs",
+              "RelativeDocumentMoniker": "chapter03-ex2\\Program.cs",
+              "ToolTip": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex2\\Program.cs",
+              "RelativeToolTip": "chapter03-ex2\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:23:09.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex1\\Program.cs",
+              "RelativeDocumentMoniker": "chapter03-ex1\\Program.cs",
+              "ToolTip": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-ex1\\Program.cs",
+              "RelativeToolTip": "chapter03-ex1\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:18:45.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-14\\Program.cs",
+              "RelativeDocumentMoniker": "chapter03-14\\Program.cs",
+              "ToolTip": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-14\\Program.cs",
+              "RelativeToolTip": "chapter03-14\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:32:29.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-13\\Program.cs",
+              "RelativeDocumentMoniker": "chapter03-13\\Program.cs",
+              "ToolTip": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-13\\Program.cs",
+              "RelativeToolTip": "chapter03-13\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:25:19.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-12\\Program.cs",
+              "RelativeDocumentMoniker": "chapter03-12\\Program.cs",
+              "ToolTip": "D:\\241028-edu2\\csharp\\4day\\chapter03\\chapter03-12\\Program.cs",
+              "RelativeToolTip": "chapter03-12\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:34:58.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

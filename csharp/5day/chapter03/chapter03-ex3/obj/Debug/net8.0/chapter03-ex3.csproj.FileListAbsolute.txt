@@ -1,0 +1,14 @@
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\bin\Debug\net8.0\chapter03-ex3.exe
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\bin\Debug\net8.0\chapter03-ex3.deps.json
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\bin\Debug\net8.0\chapter03-ex3.runtimeconfig.json
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\bin\Debug\net8.0\chapter03-ex3.dll
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\bin\Debug\net8.0\chapter03-ex3.pdb
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\obj\Debug\net8.0\chapter03-ex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\obj\Debug\net8.0\chapter03-ex3.AssemblyInfoInputs.cache
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\obj\Debug\net8.0\chapter03-ex3.AssemblyInfo.cs
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\obj\Debug\net8.0\chapter03-ex3.csproj.CoreCompileInputs.cache
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\obj\Debug\net8.0\chapter03-ex3.dll
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\obj\Debug\net8.0\refint\chapter03-ex3.dll
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\obj\Debug\net8.0\chapter03-ex3.pdb
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\obj\Debug\net8.0\chapter03-ex3.genruntimeconfig.cache
+D:\241028-edu2\csharp\5day\chapter03\chapter03-ex3\obj\Debug\net8.0\ref\chapter03-ex3.dll

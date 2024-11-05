@@ -1,4 +1,0 @@
-D:\241028-edu2\csharp\5day\chapter03\chapter03-16\obj\Debug\net8.0\chapter03-16.GeneratedMSBuildEditorConfig.editorconfig
-D:\241028-edu2\csharp\5day\chapter03\chapter03-16\obj\Debug\net8.0\chapter03-16.AssemblyInfoInputs.cache
-D:\241028-edu2\csharp\5day\chapter03\chapter03-16\obj\Debug\net8.0\chapter03-16.AssemblyInfo.cs
-D:\241028-edu2\csharp\5day\chapter03\chapter03-16\obj\Debug\net8.0\chapter03-16.csproj.CoreCompileInputs.cache
